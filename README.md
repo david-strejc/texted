@@ -1,47 +1,95 @@
-# TxtEd - Advanced Text Editor
+# 🚀 TxtEd - Advanced Text Editor
 
-A feature-rich text editor built in pure JavaScript, inspired by Vim and Emacs with modern enhancements.
+<div align="center">
 
-## Features
+![TxtEd Logo](https://img.shields.io/badge/TxtEd-v1.0.9-blue?style=for-the-badge&logo=javascript&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Pure JS](https://img.shields.io/badge/Pure-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![No Dependencies](https://img.shields.io/badge/Dependencies-None-red?style=for-the-badge)
 
-- **Modal Editing**: Vim-style modes (Normal, Insert, Visual, Command)
-- **Multi-cursor Support**: Edit multiple locations simultaneously
-- **Syntax Highlighting**: Support for multiple languages
-- **Themes**: Dark, Light, Solarized, and Monokai themes
-- **Advanced Navigation**: Word, line, and block movements
-- **Search & Replace**: Regular expression support
-- **Code Folding**: Collapse and expand code blocks
-- **Minimap**: Visual overview of your code
-- **Command Palette**: Quick access to all commands (Ctrl+P)
-- **Undo/Redo**: Intelligent grouping of changes with visual history
-- **Auto-indentation**: Smart indentation and bracket matching
+**A powerful, web-based text editor inspired by Vim and Emacs**
 
-### New Advanced Features
+[Features](#-features) • [Quick Start](#-quick-start) • [Usage](#-usage) • [Key Bindings](#-key-bindings) • [Architecture](#-architecture)
 
-- **Time Travel** (`Ctrl+T`): Visual timeline of all changes with preview
-- **Collaborative Cursors** (`Ctrl+Shift+C`): Simulated multi-user editing
-- **AI Assistant** (`Ctrl+Shift+A`): Context-aware code suggestions and refactoring hints
-- **Visual History** (`Ctrl+Shift+H`): Interactive graph of editing session
-- **Ghost Cursors** (`Ctrl+Alt+G`): Shows previous cursor positions
-- **Zen Mode** (`Ctrl+K Z`): Distraction-free editing environment
-- **Intelligent Brackets**: Auto-pairing with rainbow highlighting
-- **Code Lens** (`Ctrl+Shift+L`): Inline complexity metrics
-- **Smart Paste** (`Ctrl+Shift+V`): Context-aware pasting
-- **Semantic Navigation** (`Ctrl+Shift+O`): Go to symbol
-- **Markdown Preview** (`Ctrl+Shift+M`): Live preview with sync
-- **Minimap Annotations**: Visual markers and tooltips
+</div>
 
-## Quick Start
+---
 
-### Starting the Server
+## ✨ Features
+
+### 🎯 Core Features
+- **📝 Modal Editing** - Vim-style modal editing (Normal, Insert, Visual, Command)
+- **🎨 Canvas Rendering** - High-performance text rendering using HTML5 Canvas
+- **↩️ Undo/Redo** - Full undo/redo support with intelligent grouping
+- **📋 Registers** - Multiple registers for yanking and pasting
+- **🔍 Search** - Fast text search with highlighting
+- **📐 Line Numbers** - Configurable line numbers with current line highlighting
+
+### 🚀 Advanced Features
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🤖 AI Assistant
+Intelligent code suggestions and completions
+
+#### ⏰ Time Travel
+Visual timeline of all your changes
+
+#### 👥 Collaborative Cursors
+Multi-user editing simulation
+
+#### 📊 Visual History
+Interactive graph of your editing history
+
+</td>
+<td width="50%">
+
+#### 👻 Ghost Cursors
+See your previous cursor positions
+
+#### 🧘 Zen Mode
+Distraction-free writing environment
+
+#### 📈 Code Lens
+Inline complexity metrics
+
+#### 🔀 Split View
+Edit multiple files side by side
+
+</td>
+</tr>
+</table>
+
+### 🎨 Modern Enhancements
+- **🎯 Smart Paste** - Context-aware pasting
+- **🔗 Intelligent Brackets** - Auto-pairing and navigation
+- **📝 Markdown Preview** - Live preview as you type
+- **🗺️ Minimap** - Code overview with annotations
+- **🎨 Themes** - Dark and light themes
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Any modern web browser
+- Python 3.x (for development server)
+
+### Installation
 
 ```bash
+# Clone the repository
+git clone https://github.com/yourusername/txted.git
+cd txted
+
+# Start the development server
 ./server.sh start
+
+# Open in browser
+# Navigate to http://localhost:8080
 ```
 
-Then open http://localhost:8080 in your browser.
-
-### Server Management
+### Server Commands
 
 ```bash
 ./server.sh start    # Start the server
@@ -51,65 +99,146 @@ Then open http://localhost:8080 in your browser.
 ./server.sh logs     # View server logs
 ```
 
-## Key Bindings
+## 🎮 Usage
 
-### Normal Mode
-- `h/j/k/l` - Move left/down/up/right
-- `w/b` - Move word forward/backward
-- `0/$` - Move to line start/end
-- `gg/G` - Go to file start/end
-- `i` - Enter insert mode
-- `v` - Enter visual mode
-- `:` - Enter command mode
+### Modal Editing
+
+TxtEd uses Vim-style modal editing:
+
+| Mode | Description | Enter |
+|------|-------------|-------|
+| **Normal** | Navigation and commands | `ESC` |
+| **Insert** | Text insertion | `i`, `a`, `o` |
+| **Visual** | Text selection | `v`, `V` |
+| **Command** | Ex commands | `:` |
+
+### 📋 Key Bindings
+
+<details>
+<summary><b>Normal Mode</b></summary>
+
+#### Navigation
+- `h`, `j`, `k`, `l` - Move cursor (left, down, up, right)
+- `w`, `b`, `e` - Word navigation
+- `0`, `$` - Line start/end
+- `gg`, `G` - File start/end
+- `Ctrl+d`, `Ctrl+u` - Half page down/up
+
+#### Editing
+- `i`, `a` - Insert before/after cursor
+- `I`, `A` - Insert at line start/end
+- `o`, `O` - New line below/above
+- `x`, `X` - Delete character
 - `dd` - Delete line
 - `yy` - Yank (copy) line
-- `p` - Paste
+- `p`, `P` - Paste after/before
+
+#### Other
 - `u` - Undo
 - `Ctrl+r` - Redo
-- `Ctrl+Z` - Undo (alternative)
-- `Ctrl+Y` - Redo (alternative)
-- `/` - Search
-- `n/N` - Next/previous search result
+- `/` - Search forward
+- `v` - Visual mode
+- `:` - Command mode
 
-### Insert Mode
-- `ESC` or `Ctrl+[` - Return to normal mode
-- `Ctrl+n` - Auto-complete
-- `Tab` - Indent or expand snippet
-- `Ctrl+t/d` - Indent/outdent line
+</details>
 
-### Visual Mode
-- `ESC` - Return to normal mode
-- `y` - Yank selection
-- `d` - Delete selection
-- `c` - Change selection
-- `>/<` - Indent/outdent selection
+<details>
+<summary><b>Insert Mode</b></summary>
 
-### Command Mode
+- `ESC` or `Ctrl+[` - Return to Normal mode
+- `Ctrl+z` - Undo
+- `Ctrl+y` - Redo
+- `Ctrl+n` - Autocomplete
+- `Ctrl+t` - Indent
+- `Ctrl+d` - Outdent
+
+</details>
+
+<details>
+<summary><b>Command Mode</b></summary>
+
 - `:w` - Save file
 - `:q` - Quit
 - `:wq` - Save and quit
-- `:theme <name>` - Change theme
-- `:set <option>` - Set editor option
+- `:set number` - Toggle line numbers
+- `:theme dark` - Set dark theme
 
-### Global
-- `Ctrl+P` - Open command palette
+</details>
 
-## Architecture
+### 🎨 Command Palette
 
-The editor is built with a modular architecture:
+Press `Ctrl+P` to open the command palette for quick access to all commands:
 
-- **Core**: Buffer management, cursor control, undo/redo
-- **Modes**: Vim-style modal editing system
-- **UI**: Canvas-based rendering, themes, status bar
-- **Features**: Search, syntax highlighting, auto-completion
+- 🔄 Undo/Redo
+- 🕐 Time Travel
+- 📋 Smart Paste
+- 🧘 Zen Mode
+- 👻 Ghost Cursors
+- 🤖 AI Assistant
+- And many more...
 
-## Browser Compatibility
+## 🏗️ Architecture
 
-Works best in modern browsers with Canvas support:
-- Chrome/Edge 90+
-- Firefox 88+
-- Safari 14+
+```
+txted/
+├── 📁 js/
+│   ├── 📁 core/          # Core components
+│   │   ├── Buffer.js     # Text storage
+│   │   ├── Cursor.js     # Cursor management
+│   │   ├── EventEmitter.js
+│   │   └── UndoManager.js
+│   ├── 📁 modes/         # Editor modes
+│   │   ├── Mode.js       # Base mode class
+│   │   ├── NormalMode.js
+│   │   ├── InsertMode.js
+│   │   └── VisualMode.js
+│   ├── 📁 features/      # Advanced features
+│   │   ├── AIAssistant.js
+│   │   ├── TimeTravel.js
+│   │   └── ...
+│   └── 📁 ui/           # UI components
+│       ├── Renderer.js   # Canvas rendering
+│       ├── StatusBar.js
+│       └── CommandPalette.js
+├── 📁 css/              # Stylesheets
+├── 📄 index.html        # Main HTML file
+└── 📄 server.sh         # Dev server script
+```
 
-## License
+### 🔧 Technology Stack
 
-MIT License
+- **Frontend**: Pure JavaScript (ES6+)
+- **Rendering**: HTML5 Canvas API
+- **Styling**: CSS3
+- **Server**: Python SimpleHTTPServer
+- **Dependencies**: None! 🎉
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- Inspired by **Vim** and **Emacs**
+- Built with ❤️ using pure JavaScript
+- Special thanks to all contributors
+
+---
+
+<div align="center">
+
+**[⬆ back to top](#-txted---advanced-text-editor)**
+
+Made with ❤️ by the TxtEd Team
+
+</div>

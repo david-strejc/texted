@@ -1714,3 +1714,527 @@
 192.168.9.205 - - [23/May/2025 16:23:41] "POST /inform HTTP/1.1" 501 -
 192.168.9.211 - - [23/May/2025 16:23:41] code 501, message Unsupported method ('POST')
 192.168.9.211 - - [23/May/2025 16:23:41] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:23:42] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:23:42] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:23:43] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:23:43] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:23:45] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:23:45] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:23:45] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:23:45] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:23:46] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:23:46] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:23:47] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:23:47] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:23:48] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:23:48] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:23:50] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:23:50] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:23:51] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:23:51] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:23:51] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:23:51] "POST /inform HTTP/1.1" 501 -
+192.168.9.1 - - [23/May/2025 16:23:51] code 501, message Unsupported method ('POST')
+192.168.9.1 - - [23/May/2025 16:23:51] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:23:52] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:23:52] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:23:54] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:23:54] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:23:55] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:23:55] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:23:56] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:23:56] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:23:57] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:23:57] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:23:58] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:23:58] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:23:59] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:23:59] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:00] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:00] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:24:01] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:24:01] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:24:02] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:24:02] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:02] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:02] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:03] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:03] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:04] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:04] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:24:06] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:24:06] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:06] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:06] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:24:07] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:24:07] "POST /inform HTTP/1.1" 501 -
+192.168.9.1 - - [23/May/2025 16:24:07] code 501, message Unsupported method ('POST')
+192.168.9.1 - - [23/May/2025 16:24:07] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:07] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:07] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:09] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:09] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:11] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:11] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:24:11] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:24:11] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:12] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:12] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:13] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:13] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:15] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:15] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:16] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:16] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:17] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:17] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:24:17] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:24:17] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:19] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:19] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:20] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:20] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:21] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:21] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:24:21] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:24:21] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:24:22] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:24:22] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:23] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:23] "POST /inform HTTP/1.1" 501 -
+192.168.9.1 - - [23/May/2025 16:24:23] code 501, message Unsupported method ('POST')
+192.168.9.1 - - [23/May/2025 16:24:23] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:24] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:24] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:25] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:25] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:24:26] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:24:26] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:27] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:27] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:24:28] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:24:28] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:29] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:29] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:30] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:30] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:24:31] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:24:31] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:32] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:32] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:33] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:33] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:34] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:34] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:36] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:36] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:37] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:37] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:24:38] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:24:38] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:38] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:38] "POST /inform HTTP/1.1" 501 -
+192.168.9.1 - - [23/May/2025 16:24:39] code 501, message Unsupported method ('POST')
+192.168.9.1 - - [23/May/2025 16:24:39] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:40] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:40] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:41] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:41] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:24:42] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:24:42] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:42] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:42] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:24:43] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:24:43] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:44] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:44] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:45] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:45] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:46] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:46] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:24:47] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:24:47] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:24:48] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:24:48] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:48] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:48] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:49] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:49] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:51] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:51] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:24:52] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:24:52] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:53] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:53] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:54] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:54] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:55] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:55] "POST /inform HTTP/1.1" 501 -
+192.168.9.1 - - [23/May/2025 16:24:55] code 501, message Unsupported method ('POST')
+192.168.9.1 - - [23/May/2025 16:24:55] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:57] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:57] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:58] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:58] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:24:59] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:24:59] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:24:59] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:24:59] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:01] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:01] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:02] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:02] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:25:02] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:25:02] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:03] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:03] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:25:04] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:25:04] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:05] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:05] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:06] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:06] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:25:07] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:25:07] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:07] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:07] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:25:09] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:25:09] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:09] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:09] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:10] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:10] "POST /inform HTTP/1.1" 501 -
+192.168.9.1 - - [23/May/2025 16:25:11] code 501, message Unsupported method ('POST')
+192.168.9.1 - - [23/May/2025 16:25:11] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:11] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:11] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:25:12] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:25:12] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:14] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:14] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:15] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:15] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:16] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:16] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:18] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:18] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:19] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:19] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:25:19] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:25:19] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:20] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:20] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:22] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:22] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:25:22] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:25:22] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:23] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:23] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:24] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:24] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:25:24] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:25:24] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:26] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:26] "POST /inform HTTP/1.1" 501 -
+192.168.9.1 - - [23/May/2025 16:25:27] code 501, message Unsupported method ('POST')
+192.168.9.1 - - [23/May/2025 16:25:27] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:27] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:27] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:25:28] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:25:28] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:28] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:28] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:25:29] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:25:29] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:30] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:30] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:31] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:31] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:32] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:32] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:25:33] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:25:33] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:35] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:35] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:36] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:36] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:37] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:37] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:39] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:39] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:25:40] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:25:40] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:40] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:40] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:41] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:41] "POST /inform HTTP/1.1" 501 -
+192.168.9.1 - - [23/May/2025 16:25:42] code 501, message Unsupported method ('POST')
+192.168.9.1 - - [23/May/2025 16:25:42] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:25:43] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:25:43] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:43] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:43] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:44] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:44] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:25:45] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:25:45] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:45] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:45] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:47] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:47] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:25:48] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:25:48] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:48] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:48] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:49] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:49] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:25:50] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:25:50] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:51] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:51] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:52] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:52] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:25:53] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:25:53] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:53] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:53] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:56] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:56] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:57] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:57] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:25:58] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:25:58] "POST /inform HTTP/1.1" 501 -
+192.168.9.1 - - [23/May/2025 16:25:58] code 501, message Unsupported method ('POST')
+192.168.9.1 - - [23/May/2025 16:25:58] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:00] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:00] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:26:00] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:26:00] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:01] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:01] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:02] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:02] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:26:03] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:26:03] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:04] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:04] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:05] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:05] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:26:06] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:26:06] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:06] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:06] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:08] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:08] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:26:09] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:26:09] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:09] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:09] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:10] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:10] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:26:11] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:26:11] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:12] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:12] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:13] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:13] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:26:14] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:26:14] "POST /inform HTTP/1.1" 501 -
+192.168.9.1 - - [23/May/2025 16:26:14] code 501, message Unsupported method ('POST')
+192.168.9.1 - - [23/May/2025 16:26:14] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:14] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:14] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:17] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:17] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:18] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:18] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:19] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:19] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:21] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:21] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:26:21] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:26:21] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:22] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:22] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:23] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:23] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:26:24] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:26:24] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:25] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:25] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:26] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:26] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:26:26] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:26:26] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:27] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:27] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:26:29] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:26:29] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:29] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:29] "POST /inform HTTP/1.1" 501 -
+192.168.9.1 - - [23/May/2025 16:26:30] code 501, message Unsupported method ('POST')
+192.168.9.1 - - [23/May/2025 16:26:30] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:30] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:30] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:31] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:31] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:26:31] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:26:31] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:33] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:33] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:26:34] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:26:34] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:34] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:34] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:35] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:35] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:38] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:38] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:39] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:39] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:40] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:40] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:26:42] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:26:42] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:42] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:42] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:43] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:43] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:44] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:44] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:26:44] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:26:44] "POST /inform HTTP/1.1" 501 -
+192.168.9.1 - - [23/May/2025 16:26:46] code 501, message Unsupported method ('POST')
+192.168.9.1 - - [23/May/2025 16:26:46] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:46] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:46] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:26:47] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:26:47] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:47] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:47] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:48] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:48] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:26:49] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:26:49] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:50] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:50] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:51] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:51] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:26:52] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:26:52] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:52] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:52] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:54] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:54] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:26:55] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:26:55] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:55] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:55] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:56] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:56] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:26:59] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:26:59] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:00] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:00] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:01] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:01] "POST /inform HTTP/1.1" 501 -
+192.168.9.1 - - [23/May/2025 16:27:02] code 501, message Unsupported method ('POST')
+192.168.9.1 - - [23/May/2025 16:27:02] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:27:02] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:27:02] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:03] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:03] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:04] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:04] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:27:05] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:27:05] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:05] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:05] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:07] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:07] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:27:08] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:27:08] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:08] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:08] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:09] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:09] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:27:10] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:27:10] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:11] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:11] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:12] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:12] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:27:13] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:27:13] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:13] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:13] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:27:15] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:27:15] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:15] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:15] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:16] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:16] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:17] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:17] "POST /inform HTTP/1.1" 501 -
+192.168.9.1 - - [23/May/2025 16:27:18] code 501, message Unsupported method ('POST')
+192.168.9.1 - - [23/May/2025 16:27:18] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:20] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:20] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:21] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:21] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:22] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:22] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:27:23] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:27:23] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:24] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:24] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:25] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:25] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:27:25] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:27:25] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:26] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:26] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:28] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:28] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:27:28] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:27:28] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:29] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:29] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:30] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:30] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:27:30] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:27:30] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:32] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:32] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:33] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:33] "POST /inform HTTP/1.1" 501 -
+192.168.9.1 - - [23/May/2025 16:27:33] code 501, message Unsupported method ('POST')
+192.168.9.1 - - [23/May/2025 16:27:33] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:27:33] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:27:33] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:34] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:34] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:27:35] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:27:35] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:36] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:36] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:37] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:37] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:38] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:38] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:40] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:40] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:42] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:42] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:43] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:43] "POST /inform HTTP/1.1" 501 -
+192.168.9.211 - - [23/May/2025 16:27:44] code 501, message Unsupported method ('POST')
+192.168.9.211 - - [23/May/2025 16:27:44] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:45] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:45] "POST /inform HTTP/1.1" 501 -
+192.168.9.225 - - [23/May/2025 16:27:46] code 501, message Unsupported method ('POST')
+192.168.9.225 - - [23/May/2025 16:27:46] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:46] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:46] "POST /inform HTTP/1.1" 501 -
+192.168.9.205 - - [23/May/2025 16:27:47] code 501, message Unsupported method ('POST')
+192.168.9.205 - - [23/May/2025 16:27:47] "POST /inform HTTP/1.1" 501 -
