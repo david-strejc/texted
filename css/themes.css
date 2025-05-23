@@ -1,0 +1,62 @@
+.theme-dark {
+    --bg-primary: #1e1e1e;
+    --bg-secondary: #252526;
+    --bg-tertiary: #2d2d2d;
+    --fg-primary: #d4d4d4;
+    --fg-secondary: #cccccc;
+    --fg-muted: #858585;
+    --border: #3e3e3e;
+    --accent: #007acc;
+    --selection: rgba(38, 79, 120, 0.5);
+    --cursor: #aeafad;
+}
+
+.theme-light {
+    --bg-primary: #ffffff;
+    --bg-secondary: #f3f3f3;
+    --bg-tertiary: #e8e8e8;
+    --fg-primary: #333333;
+    --fg-secondary: #444444;
+    --fg-muted: #767676;
+    --border: #d3d3d3;
+    --accent: #0066cc;
+    --selection: rgba(0, 102, 204, 0.2);
+    --cursor: #333333;
+}
+
+.theme-solarized {
+    --bg-primary: #002b36;
+    --bg-secondary: #073642;
+    --bg-tertiary: #004052;
+    --fg-primary: #839496;
+    --fg-secondary: #93a1a1;
+    --fg-muted: #657b83;
+    --border: #094654;
+    --accent: #268bd2;
+    --selection: rgba(38, 139, 210, 0.3);
+    --cursor: #839496;
+}
+
+.theme-monokai {
+    --bg-primary: #272822;
+    --bg-secondary: #2e2e28;
+    --bg-tertiary: #3e3d32;
+    --fg-primary: #f8f8f2;
+    --fg-secondary: #e6e6dc;
+    --fg-muted: #75715e;
+    --border: #49483e;
+    --accent: #66d9ef;
+    --selection: rgba(73, 72, 62, 0.8);
+    --cursor: #f8f8f0;
+}
+
+.syntax-keyword { color: #569cd6; }
+.syntax-string { color: #ce9178; }
+.syntax-number { color: #b5cea8; }
+.syntax-comment { color: #6a9955; }
+.syntax-function { color: #dcdcaa; }
+.syntax-variable { color: #9cdcfe; }
+.syntax-operator { color: #d4d4d4; }
+.syntax-bracket { color: #ffd700; }
+.syntax-type { color: #4ec9b0; }
+.syntax-constant { color: #4fc1ff; }

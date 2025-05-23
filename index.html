@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TxtEd - Advanced Text Editor</title>
+    <link rel="stylesheet" href="css/editor.css">
+    <link rel="stylesheet" href="css/themes.css">
+    <link rel="stylesheet" href="css/features.css">
+</head>
+<body>
+    <div id="editor-container">
+        <div id="menu-bar"></div>
+        <div id="editor-wrapper">
+            <div id="line-numbers"></div>
+            <div id="editor-viewport">
+                <canvas id="editor-canvas"></canvas>
+                <textarea id="hidden-input" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"></textarea>
+            </div>
+        </div>
+        <div id="status-bar"></div>
+        <div id="command-palette" class="hidden"></div>
+        <div id="minimap"></div>
+    </div>
+    
+    <script src="js/core/EventEmitter.js"></script>
+    <script src="js/core/Buffer.js"></script>
+    <script src="js/core/Cursor.js"></script>
+    <script src="js/core/Selection.js"></script>
+    <script src="js/core/UndoManager.js"></script>
+    <script src="js/core/TextMeasure.js"></script>
+    
+    <script src="js/modes/Mode.js"></script>
+    <script src="js/modes/NormalMode.js"></script>
+    <script src="js/modes/InsertMode.js"></script>
+    <script src="js/modes/VisualMode.js"></script>
+    <script src="js/modes/CommandMode.js"></script>
+    
+    <script src="js/features/Search.js"></script>
+    <script src="js/features/TimeTravel.js"></script>
+    <script src="js/features/GhostCursors.js"></script>
+    <script src="js/features/ZenMode.js"></script>
+    <script src="js/features/CodeLens.js"></script>
+    <script src="js/features/SmartPaste.js"></script>
+    <script src="js/features/SemanticNavigation.js"></script>
+    <script src="js/features/MarkdownPreview.js"></script>
+    <script src="js/features/MinimapAnnotations.js"></script>
+    <script src="js/features/IntelligentBrackets.js"></script>
+    <script src="js/features/CollaborativeCursors.js"></script>
+    <script src="js/features/AIAssistant.js"></script>
+    <script src="js/features/VisualHistory.js"></script>
+    
+    <script src="js/ui/Renderer.js"></script>
+    <script src="js/ui/StatusBar.js"></script>
+    <script src="js/ui/CommandPalette.js"></script>
+    <script src="js/ui/Minimap.js"></script>
+    <script src="js/ui/Theme.js"></script>
+    
+    <script src="js/commands/EditorCommands.js"></script>
+    
+    <script src="js/Editor.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
